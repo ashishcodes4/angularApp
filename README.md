@@ -1,2 +1,0 @@
-# angularApp
-Testing angular app.
